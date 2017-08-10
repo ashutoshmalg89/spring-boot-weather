@@ -1,0 +1,14 @@
+io\api\Exception\BadRequestException.class
+io\api\ServiceImpl\WeatherServiceImpl.class
+io\api\config\SwaggerConfig.class
+io\api\Repository\WeatherRepository.class
+io\api\Service\WeatherService.class
+io\api\Application.class
+io\api\Entity\Wind.class
+io\api\RepositoryImpl\WeatherRepositoryImpl.class
+io\api\ServiceImpl\WeatherServiceImpl$wProperties.class
+io\api\Entity\Weather.class
+io\api\Repository\WeatherRepositoryComplex.class
+io\api\Exception\NotFoundException.class
+io\api\config\WebConfig.class
+io\api\Controller\WeatherController.class
